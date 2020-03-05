@@ -50,5 +50,6 @@ void turnOff_BoosterpackLEDBlue();
 
 // TODO: Define any constants that are local to myGPIO.c using #define
 
+//There was no need since I am using Driverlib function.
 
 #endif /* MYGPIO_H_ */
